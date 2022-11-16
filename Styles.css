@@ -1,0 +1,88 @@
+body {
+	font-family: Arial;
+	text-align:justify;
+	display: flex;
+	flex-direction: column;
+	justify-content:space-between;
+}
+
+header{
+	display: flex;
+	flex-direction: row;
+	justify-content:space-between;
+	padding-left:10%;
+	padding-right:10%;
+	padding-top:8%;
+	padding-bottom:8%;
+	background-color:#7451eb;	
+}
+
+section#centrePage{
+	display: flex;
+	justify-content:space-between;
+	padding-left:10%;
+	padding-right:10%;
+	padding-top:8%;
+	padding-bottom:8%;
+	background-color:white;	
+}
+
+#centrePageGauche {
+	display: flex;
+	flex-direction: column;
+	justify-content:center;
+	align-items: center;
+}
+
+footer{
+	padding-left:10%;
+	padding-right:10%;
+	padding-top:8%;
+	padding-bottom:8%;
+	background-color:#003668;
+	color:white;
+}
+
+h1 {
+	font-size: xx-large;
+	font-style: bold;
+	color: white;
+}
+
+h2 {
+	font-size: x-large;
+	color: #003668;
+}
+
+p {
+	font-size: large;
+}
+
+strong {
+	font-style: normal; 
+	color:#003668;
+	background-color:#00eda2;
+}
+
+#presentation{
+	color:white;
+}
+
+#headerDroite img {
+	height:200px;
+}
+
+#centrePageGauche img {
+	width:60%;
+	height:auto;	
+}
+
+.mescompetences{
+	color: #003668;
+}
+
+#contact{
+	font-size:x-large;
+}
+
+
